@@ -1,0 +1,13 @@
+body{
+  background-image: url("../img/bgQuiz.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h1Heading{
+  font-family: "poppins";
+  font-size: 70px;
+}
+.text-left{
+  background-color: white;
+  opacity:.8;
+}
